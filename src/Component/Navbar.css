@@ -1,0 +1,31 @@
+.navbody {
+  width: 100vw;
+  height: 80px;
+}
+.title {
+  width: 100vw;
+  height: 80px;
+  background-color: rgb(22, 92, 86);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: flex-start;
+}
+.name {
+  color: rgb(192, 187, 187);
+  width: 50%;
+  font-size: 80px;
+}
+.btnWrapper {
+  display: flex;
+  width: 40%;
+  justify-content: center;
+  align-items: flex-end;
+}
+.showEmp {
+  height: 25px;
+  width: 100px;
+  border: 2px black solid;
+  border-radius: 10px;
+  background-color: rgb(201, 197, 197);
+}

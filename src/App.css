@@ -1,0 +1,21 @@
+body {
+  background-color: rgba(38, 30, 109, 0.986);
+  margin: 0;
+  width: 100%;
+}
+.main {
+  width: 100%;
+}
+.Nav {
+  width: 100%;
+}
+.Card {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.gif {
+  position: absolute;
+  left: 30%;
+}

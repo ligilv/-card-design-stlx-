@@ -1,0 +1,45 @@
+.mainWrap {
+  margin-top: 20px;
+  margin-left: 20px;
+  border: rgb(233, 211, 211) 5px solid;
+  border-radius: 15px;
+  width: 15%;
+  height: 250px;
+  background-color: cyan;
+  display: flex;
+  flex-direction: column;
+}
+.imgWrapper {
+  width: 100%;
+  background-color: rgb(210, 241, 241);
+  display: flex;
+  height: 60%;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: 60%;
+  background-color: cyan;
+  /* border: red 2px solid; */
+  border-radius: 50%;
+  height: 80%;
+}
+.ContentWrapper {
+  width: 100%;
+  background-color: rgb(26, 77, 77);
+  padding-top: 10px;
+  color: rgb(238, 229, 229);
+  height: 40%;
+  display: flex;
+  justify-content: baseline;
+  align-items: center;
+  align-content: space-between;
+  flex-direction: column;
+}
+.contactBtn {
+  margin-top: 10px;
+  border-radius: 15px;
+}
+.inText {
+  padding-top: 10px;
+}
