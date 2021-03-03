@@ -1,4 +1,9 @@
 # -card-design-stlx-
+Hosted online at netlify, please follow the link
+
+https://carddesignbyliigi.netlify.app
+
+
 Fetch employees card design (stlx)
 Packages used 
 
